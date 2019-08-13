@@ -6,7 +6,6 @@ import { RouterModule } from '@angular/router';
 
 import { AppComponent } from './app.component';
 import { NavMenuComponent } from './nav-menu/nav-menu.component';
-import { LogoComponent } from './logo/logo.component';
 import { FeedComponent } from './feed/feed.component';
 import { HomeComponent } from './home/home.component';
 
@@ -14,7 +13,6 @@ import { HomeComponent } from './home/home.component';
   declarations: [
     AppComponent,
     NavMenuComponent,
-    LogoComponent,
     FeedComponent,
     HomeComponent
   ],

@@ -1,13 +1,8 @@
-.spg-nav {
+.no-padding {
+  padding: 0;
+  margin: 0;
 }
 
-.spg-logo {
-  text-align: center;
+.light-gray {
   background: #ddd;
-}
-
-.spg-feed {
-  min-height: 1000px;
-  background: #ddd;
-  text-align: center;
 }

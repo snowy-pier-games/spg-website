@@ -1,17 +1,14 @@
-<div class='container-fluid'>
-  <div class='row spg-nav'>
-    <spg-nav-menu></spg-nav-menu>
+<div class='container-fluid no-padding'>
+  <div class='row'>
+    <div class='col-sm-12 no-padding'>
+      <spg-nav-menu></spg-nav-menu>
+    </div>
   </div>
   <div class='row'>
-    <div class='col-sm-3'>
-      <div class='row spg-logo'>
-        <spg-logo></spg-logo>
-      </div>
-      <div class='row spg-feed'>
-        <spg-feed></spg-feed>
-      </div>
+    <div class='col-sm-3 no-padding light-gray'>
+      <spg-feed></spg-feed>
     </div>
-    <div class='col-sm-8'>
+    <div class='col-sm-8 no-padding'>
       <router-outlet></router-outlet>
     </div>
   </div>
