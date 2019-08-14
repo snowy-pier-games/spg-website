@@ -7,7 +7,7 @@ Website for Snowy Pier Games LLC.
 
 ### Building locally
 ```
-cd spg-website
+cd spg-website/spg-website
 npm install
 ng build
 ```
