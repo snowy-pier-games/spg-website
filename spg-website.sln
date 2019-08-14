@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spg-website", "spg-website\spg-website.csproj", "{1E05C23A-6B83-413A-B094-080F801C043E}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "spg-website", "spg-website\spg-website.njsproj", "{6E75FA64-86A7-42F1-9C46-F60427840722}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1E05C23A-6B83-413A-B094-080F801C043E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E05C23A-6B83-413A-B094-080F801C043E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E05C23A-6B83-413A-B094-080F801C043E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E05C23A-6B83-413A-B094-080F801C043E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E75FA64-86A7-42F1-9C46-F60427840722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E75FA64-86A7-42F1-9C46-F60427840722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E75FA64-86A7-42F1-9C46-F60427840722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E75FA64-86A7-42F1-9C46-F60427840722}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2A311A1E-39C1-48D4-A2D9-E4B6818A4899}
+		SolutionGuid = {57A028D7-3556-46C3-8F27-3F14B24238D0}
 	EndGlobalSection
 EndGlobal
